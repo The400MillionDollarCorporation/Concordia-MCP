@@ -33,7 +33,7 @@ An advanced Model Context Protocol (MCP) server that provides comprehensive anal
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/solana-portfolio-tracker.git
+git clone https://github.com/The400MillionDollarCorporation/portfolio_tracker.git
 cd portfolio-tracker
 
 # Install dependencies
