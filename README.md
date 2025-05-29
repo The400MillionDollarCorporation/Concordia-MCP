@@ -1,4 +1,4 @@
-# Solana Portfolio Tracker MCP
+# Concordia MCP
 
 An advanced Model Context Protocol (MCP) server that provides comprehensive analytics for Solana wallets, offering real-time portfolio insights and detailed DeFi activity tracking.
 
