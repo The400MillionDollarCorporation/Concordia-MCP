@@ -44,9 +44,14 @@ pnpm install
 
 Create an `.env` file with your configuration:
 
+
 ```
-SOLANA_RPC_URL=your_rpc_url_here
+SOLANA_RPC_URL=https://mainnet.helius-rpc.com/?api-key=ad83f75e-b1c4-4fbd-b405-866fe3b9c558
 ```
+
+> **Note:** This is a live, rate-limited RPC URL provided for convenience. For production use, it's highly recommended to obtain your own dedicated RPC endpoint.
+
+
 
 ### Usage
 
